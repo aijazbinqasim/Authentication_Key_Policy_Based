@@ -1,0 +1,6 @@
+@Authentication_Key_Policy_Based_HostAddress = http://localhost:5235
+
+GET {{Authentication_Key_Policy_Based_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
